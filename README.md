@@ -1,12 +1,16 @@
-# CS_MITOS_Public
-Respository for open source software developed in collaboration between MIT City Science and MIT Office of Sustainability
+# City Science + MITOS collaboration (Public)
+Respository for open source software developed in collaboration between MIT City Science and MIT Office of Sustainability.
+
+
+#### Paper citation
+
+Berke, A., Doorley, R., Alfonso, L., & Larson, K. (2022). Preserving Sustainability Gains of the COVID-19 Pandemic: A Case Study of MIT Campus Commuting. Transportation Research Record. https://doi.org/10.1177/03611981221088776
+
+#### Paper code
 
 See the Python notebook 
 https://github.com/CityScope/CS_MITOS_Public/blob/main/notebooks/car_commute_interventions.ipynb 
-for the analysis reported on in the paper 
-"Preserving sustainability gains of the COVID-19 pandemic: A case study of MIT campus commuting" 
-published by the 
-Transportation Research Record.
+for the analysis reported on in the paper.
 
 
 
